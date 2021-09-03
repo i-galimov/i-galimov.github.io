@@ -11,7 +11,11 @@ border-style:solid;
 border-width:1px;
 }
 
-#skills {margin:5% auto;}
+#skills 
+{
+  margin:auto;
+  font-stretch: extra-expanded;
+}
 
 a:link {color:#00FF00;}    /* непосещенная ссылка */
 a:visited {color:#32CD32;} /* посещенная ссылка */
