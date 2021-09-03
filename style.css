@@ -1,7 +1,8 @@
-ul {
-  list-style-type: upper-roman;
-}
+ul.circle {list-style-type:circle;}
+ul.disc {list-style-type:disc;}
+ul.square {list-style-type:square;}
+ul.roman {list-style-type:lower-roman;}
 body
 {
-background-color:#00FF00;
+background-color:#F0E68C;
 }
