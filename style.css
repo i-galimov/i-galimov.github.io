@@ -6,3 +6,7 @@ body
 {
 background-color:#F0E68C;
 }
+a:link {color:#00FF00;}    /* непосещенная ссылка */
+a:visited {color:#FF0000;} /* посещенная ссылка */
+a:hover {color:#00FFFF;}   /* курсор мыши над ссылкой */
+a:active {color:#FFFF00;}  /* выбранная ссылка */
