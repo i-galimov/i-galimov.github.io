@@ -1,1 +1,0 @@
-# i-galimov.github.io
