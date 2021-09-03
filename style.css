@@ -1,7 +1,7 @@
 ul.circle {list-style-type:circle;}
 ul.disc {list-style-type:disc;}
 ul.square {list-style-type:square;}
-ul.roman {list-style-type:lower-roman;}
+ul.roman {list-style-type:upper-roman;}
 
 em {background-color:#00FF00;}
 
@@ -11,7 +11,7 @@ border-style:solid;
 border-width:1px;
 }
 
-h3 {margin:auto;}
+#skills {margin:5% auto;}
 
 a:link {color:#00FF00;}    /* непосещенная ссылка */
 a:visited {color:#32CD32;} /* посещенная ссылка */
