@@ -2,10 +2,17 @@ ul.circle {list-style-type:circle;}
 ul.disc {list-style-type:disc;}
 ul.square {list-style-type:square;}
 ul.roman {list-style-type:lower-roman;}
+
+em {background-color:#00FF00;}
+
 body
 {
-background-color:#F0E68C;
+border-style:solid;
+border-width:1px;
 }
+
+h3 {margin:auto;}
+
 a:link {color:#00FF00;}    /* непосещенная ссылка */
 a:visited {color:#FF0000;} /* посещенная ссылка */
 a:hover {color:#00FFFF;}   /* курсор мыши над ссылкой */
